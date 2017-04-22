@@ -1,0 +1,32 @@
+C:\Users\Omar\Desktop\(02) CS3420 Intro Software Engineering\School System\CS3420-master (new)\GUI\GUI\bin\Debug\GUI.exe.config
+C:\Users\Omar\Desktop\(02) CS3420 Intro Software Engineering\School System\CS3420-master (new)\GUI\GUI\bin\Debug\GUI.exe
+C:\Users\Omar\Desktop\(02) CS3420 Intro Software Engineering\School System\CS3420-master (new)\GUI\GUI\bin\Debug\MySql.Data.dll
+C:\Users\Omar\Desktop\(02) CS3420 Intro Software Engineering\School System\CS3420-master (new)\GUI\GUI\bin\Debug\MySql.Data.xml
+C:\Users\Omar\Desktop\(02) CS3420 Intro Software Engineering\School System\CS3420-master (new)\GUI\GUI\obj\Debug\SIMS.vbprojResolveAssemblyReference.cache
+C:\Users\Omar\Desktop\(02) CS3420 Intro Software Engineering\School System\CS3420-master (new)\GUI\GUI\obj\Debug\GUI.Admin.resources
+C:\Users\Omar\Desktop\(02) CS3420 Intro Software Engineering\School System\CS3420-master (new)\GUI\GUI\obj\Debug\GUI.Login.resources
+C:\Users\Omar\Desktop\(02) CS3420 Intro Software Engineering\School System\CS3420-master (new)\GUI\GUI\obj\Debug\GUI.Resources.resources
+C:\Users\Omar\Desktop\(02) CS3420 Intro Software Engineering\School System\CS3420-master (new)\GUI\GUI\obj\Debug\GUI.Student.resources
+C:\Users\Omar\Desktop\(02) CS3420 Intro Software Engineering\School System\CS3420-master (new)\GUI\GUI\obj\Debug\GUI.updateForm.resources
+C:\Users\Omar\Desktop\(02) CS3420 Intro Software Engineering\School System\CS3420-master (new)\GUI\GUI\obj\Debug\SIMS.vbproj.GenerateResource.Cache
+C:\Users\Omar\Desktop\(02) CS3420 Intro Software Engineering\School System\CS3420-master (new)\GUI\GUI\obj\Debug\GUI.exe
+C:\Users\Omar\Desktop\(02) CS3420 Intro Software Engineering\School System\CS3420-master (new)\GUI\GUI\obj\Debug\GUI.xml
+C:\Users\Omar\Desktop\(02) CS3420 Intro Software Engineering\School System\CS3420-master (new)\GUI\GUI\obj\Debug\GUI.pdb
+C:\Users\Omar\Desktop\(02) CS3420 Intro Software Engineering\School System\CS3420-master (new)\GUI\GUI\bin\Debug\GUI.pdb
+C:\Users\Omar\Desktop\(02) CS3420 Intro Software Engineering\School System\CS3420-master (new)\GUI\GUI\bin\Debug\GUI.xml
+C:\School System\GUI\GUI\bin\Debug\GUI.exe.config
+C:\School System\GUI\GUI\obj\Debug\GUI.exe
+C:\School System\GUI\GUI\obj\Debug\GUI.xml
+C:\School System\GUI\GUI\obj\Debug\GUI.pdb
+C:\School System\GUI\GUI\bin\Debug\GUI.exe
+C:\School System\GUI\GUI\bin\Debug\GUI.pdb
+C:\School System\GUI\GUI\bin\Debug\GUI.xml
+C:\School System\GUI\GUI\bin\Debug\MySql.Data.dll
+C:\School System\GUI\GUI\bin\Debug\MySql.Data.xml
+C:\School System\GUI\GUI\obj\Debug\SIMS.vbprojResolveAssemblyReference.cache
+C:\School System\GUI\GUI\obj\Debug\GUI.Admin.resources
+C:\School System\GUI\GUI\obj\Debug\GUI.Login.resources
+C:\School System\GUI\GUI\obj\Debug\GUI.Resources.resources
+C:\School System\GUI\GUI\obj\Debug\GUI.Student.resources
+C:\School System\GUI\GUI\obj\Debug\GUI.updateForm.resources
+C:\School System\GUI\GUI\obj\Debug\SIMS.vbproj.GenerateResource.Cache

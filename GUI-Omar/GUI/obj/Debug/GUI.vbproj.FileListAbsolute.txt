@@ -1,0 +1,46 @@
+C:\Users\kiyun_000\Documents\D. Spring 2017\Software Engineering\GUI\GUI\bin\Debug\GUI.exe.config
+C:\Users\kiyun_000\Documents\D. Spring 2017\Software Engineering\GUI\GUI\bin\Debug\GUI.exe
+C:\Users\kiyun_000\Documents\D. Spring 2017\Software Engineering\GUI\GUI\bin\Debug\GUI.pdb
+C:\Users\kiyun_000\Documents\D. Spring 2017\Software Engineering\GUI\GUI\bin\Debug\GUI.xml
+C:\Users\kiyun_000\Documents\D. Spring 2017\Software Engineering\GUI\GUI\obj\Debug\GUI.vbprojResolveAssemblyReference.cache
+C:\Users\kiyun_000\Documents\D. Spring 2017\Software Engineering\GUI\GUI\obj\Debug\GUI.Login.resources
+C:\Users\kiyun_000\Documents\D. Spring 2017\Software Engineering\GUI\GUI\obj\Debug\GUI.Resources.resources
+C:\Users\kiyun_000\Documents\D. Spring 2017\Software Engineering\GUI\GUI\obj\Debug\GUI.vbproj.GenerateResource.Cache
+C:\Users\kiyun_000\Documents\D. Spring 2017\Software Engineering\GUI\GUI\obj\Debug\GUI.exe
+C:\Users\kiyun_000\Documents\D. Spring 2017\Software Engineering\GUI\GUI\obj\Debug\GUI.xml
+C:\Users\kiyun_000\Documents\D. Spring 2017\Software Engineering\GUI\GUI\obj\Debug\GUI.pdb
+C:\Users\kiyun_000\Documents\D. Spring 2017\Software Engineering\GUI\GUI\obj\Debug\GUI.Admin.resources
+C:\Users\kiyun_000\Documents\D. Spring 2017\Software Engineering\GUI\GUI\obj\Debug\GUI.Student.resources
+C:\Users\kiyun_000\Documents\D. Spring 2017\Software Engineering\GUI\GUI\obj\Debug\GUI.updateForm.resources
+C:\Users\Omar\Downloads\GUI\GUI\bin\Debug\GUI.exe.config
+C:\Users\Omar\Downloads\GUI\GUI\obj\Debug\GUI.exe
+C:\Users\Omar\Downloads\GUI\GUI\obj\Debug\GUI.xml
+C:\Users\Omar\Downloads\GUI\GUI\obj\Debug\GUI.pdb
+C:\Users\Omar\Downloads\GUI\GUI\bin\Debug\GUI.exe
+C:\Users\Omar\Downloads\GUI\GUI\bin\Debug\GUI.pdb
+C:\Users\Omar\Downloads\GUI\GUI\bin\Debug\GUI.xml
+C:\Users\Omar\Downloads\GUI\GUI\obj\Debug\GUI.vbprojResolveAssemblyReference.cache
+C:\Users\Omar\Downloads\GUI\GUI\obj\Debug\GUI.Admin.resources
+C:\Users\Omar\Downloads\GUI\GUI\obj\Debug\GUI.Login.resources
+C:\Users\Omar\Downloads\GUI\GUI\obj\Debug\GUI.Resources.resources
+C:\Users\Omar\Downloads\GUI\GUI\obj\Debug\GUI.Student.resources
+C:\Users\Omar\Downloads\GUI\GUI\obj\Debug\GUI.updateForm.resources
+C:\Users\Omar\Downloads\GUI\GUI\obj\Debug\GUI.vbproj.GenerateResource.Cache
+C:\Users\Omar\Downloads\GUI\GUI\bin\Debug\MySql.Data.dll
+C:\Users\Omar\Downloads\GUI\GUI\bin\Debug\MySql.Data.xml
+C:\Users\Omar\Desktop\(02) CS3420 Intro Software Engineering\School System\CS3420-master (new)\GUI\GUI\bin\Debug\GUI.exe.config
+C:\Users\Omar\Desktop\(02) CS3420 Intro Software Engineering\School System\CS3420-master (new)\GUI\GUI\obj\Debug\GUI.exe
+C:\Users\Omar\Desktop\(02) CS3420 Intro Software Engineering\School System\CS3420-master (new)\GUI\GUI\obj\Debug\GUI.xml
+C:\Users\Omar\Desktop\(02) CS3420 Intro Software Engineering\School System\CS3420-master (new)\GUI\GUI\obj\Debug\GUI.pdb
+C:\Users\Omar\Desktop\(02) CS3420 Intro Software Engineering\School System\CS3420-master (new)\GUI\GUI\bin\Debug\GUI.exe
+C:\Users\Omar\Desktop\(02) CS3420 Intro Software Engineering\School System\CS3420-master (new)\GUI\GUI\bin\Debug\GUI.pdb
+C:\Users\Omar\Desktop\(02) CS3420 Intro Software Engineering\School System\CS3420-master (new)\GUI\GUI\bin\Debug\GUI.xml
+C:\Users\Omar\Desktop\(02) CS3420 Intro Software Engineering\School System\CS3420-master (new)\GUI\GUI\bin\Debug\MySql.Data.dll
+C:\Users\Omar\Desktop\(02) CS3420 Intro Software Engineering\School System\CS3420-master (new)\GUI\GUI\bin\Debug\MySql.Data.xml
+C:\Users\Omar\Desktop\(02) CS3420 Intro Software Engineering\School System\CS3420-master (new)\GUI\GUI\obj\Debug\GUI.vbprojResolveAssemblyReference.cache
+C:\Users\Omar\Desktop\(02) CS3420 Intro Software Engineering\School System\CS3420-master (new)\GUI\GUI\obj\Debug\GUI.Admin.resources
+C:\Users\Omar\Desktop\(02) CS3420 Intro Software Engineering\School System\CS3420-master (new)\GUI\GUI\obj\Debug\GUI.Login.resources
+C:\Users\Omar\Desktop\(02) CS3420 Intro Software Engineering\School System\CS3420-master (new)\GUI\GUI\obj\Debug\GUI.Resources.resources
+C:\Users\Omar\Desktop\(02) CS3420 Intro Software Engineering\School System\CS3420-master (new)\GUI\GUI\obj\Debug\GUI.Student.resources
+C:\Users\Omar\Desktop\(02) CS3420 Intro Software Engineering\School System\CS3420-master (new)\GUI\GUI\obj\Debug\GUI.updateForm.resources
+C:\Users\Omar\Desktop\(02) CS3420 Intro Software Engineering\School System\CS3420-master (new)\GUI\GUI\obj\Debug\GUI.vbproj.GenerateResource.Cache
