@@ -33,6 +33,8 @@ Partial Class updateForm
         Me.midterm2 = New System.Windows.Forms.TextBox()
         Me.finalExam = New System.Windows.Forms.TextBox()
         Me.classGrade = New System.Windows.Forms.TextBox()
+        Me.CRNBox = New System.Windows.Forms.TextBox()
+        Me.Label5 = New System.Windows.Forms.Label()
         Me.SuspendLayout()
         '
         'Label2
@@ -40,9 +42,10 @@ Partial Class updateForm
         Me.Label2.BackColor = System.Drawing.Color.Crimson
         Me.Label2.Font = New System.Drawing.Font("Palatino Linotype", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label2.ForeColor = System.Drawing.Color.White
-        Me.Label2.Location = New System.Drawing.Point(12, 274)
+        Me.Label2.Location = New System.Drawing.Point(16, 342)
+        Me.Label2.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(239, 52)
+        Me.Label2.Size = New System.Drawing.Size(319, 65)
         Me.Label2.TabIndex = 4
         Me.Label2.Text = "Class Grade"
         Me.Label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
@@ -52,9 +55,10 @@ Partial Class updateForm
         Me.Label1.BackColor = System.Drawing.Color.Crimson
         Me.Label1.Font = New System.Drawing.Font("Palatino Linotype", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label1.ForeColor = System.Drawing.Color.White
-        Me.Label1.Location = New System.Drawing.Point(12, 171)
+        Me.Label1.Location = New System.Drawing.Point(16, 214)
+        Me.Label1.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(239, 52)
+        Me.Label1.Size = New System.Drawing.Size(319, 65)
         Me.Label1.TabIndex = 5
         Me.Label1.Text = "Final Exam"
         Me.Label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
@@ -64,9 +68,10 @@ Partial Class updateForm
         Me.Label3.BackColor = System.Drawing.Color.Crimson
         Me.Label3.Font = New System.Drawing.Font("Palatino Linotype", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label3.ForeColor = System.Drawing.Color.White
-        Me.Label3.Location = New System.Drawing.Point(12, 93)
+        Me.Label3.Location = New System.Drawing.Point(16, 116)
+        Me.Label3.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(239, 52)
+        Me.Label3.Size = New System.Drawing.Size(319, 65)
         Me.Label3.TabIndex = 6
         Me.Label3.Text = "Midterm Exam 2"
         Me.Label3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
@@ -76,9 +81,10 @@ Partial Class updateForm
         Me.Label4.BackColor = System.Drawing.Color.Crimson
         Me.Label4.Font = New System.Drawing.Font("Palatino Linotype", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label4.ForeColor = System.Drawing.Color.White
-        Me.Label4.Location = New System.Drawing.Point(12, 18)
+        Me.Label4.Location = New System.Drawing.Point(16, 22)
+        Me.Label4.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(239, 52)
+        Me.Label4.Size = New System.Drawing.Size(319, 65)
         Me.Label4.TabIndex = 7
         Me.Label4.Text = "Midterm Exam 1"
         Me.Label4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
@@ -86,9 +92,10 @@ Partial Class updateForm
         'Save
         '
         Me.Save.Font = New System.Drawing.Font("Palatino Linotype", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Save.Location = New System.Drawing.Point(59, 371)
+        Me.Save.Location = New System.Drawing.Point(44, 620)
+        Me.Save.Margin = New System.Windows.Forms.Padding(4)
         Me.Save.Name = "Save"
-        Me.Save.Size = New System.Drawing.Size(165, 45)
+        Me.Save.Size = New System.Drawing.Size(220, 56)
         Me.Save.TabIndex = 8
         Me.Save.Text = "Save"
         Me.Save.UseVisualStyleBackColor = True
@@ -96,9 +103,10 @@ Partial Class updateForm
         'Close
         '
         Me.Close.Font = New System.Drawing.Font("Palatino Linotype", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Close.Location = New System.Drawing.Point(438, 371)
+        Me.Close.Location = New System.Drawing.Point(549, 620)
+        Me.Close.Margin = New System.Windows.Forms.Padding(4)
         Me.Close.Name = "Close"
-        Me.Close.Size = New System.Drawing.Size(165, 45)
+        Me.Close.Size = New System.Drawing.Size(220, 56)
         Me.Close.TabIndex = 9
         Me.Close.Text = "Close"
         Me.Close.UseVisualStyleBackColor = True
@@ -106,9 +114,10 @@ Partial Class updateForm
         'Reset
         '
         Me.Reset.Font = New System.Drawing.Font("Palatino Linotype", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Reset.Location = New System.Drawing.Point(247, 371)
+        Me.Reset.Location = New System.Drawing.Point(294, 620)
+        Me.Reset.Margin = New System.Windows.Forms.Padding(4)
         Me.Reset.Name = "Reset"
-        Me.Reset.Size = New System.Drawing.Size(165, 45)
+        Me.Reset.Size = New System.Drawing.Size(220, 56)
         Me.Reset.TabIndex = 10
         Me.Reset.Text = "Reset"
         Me.Reset.UseVisualStyleBackColor = True
@@ -116,41 +125,69 @@ Partial Class updateForm
         'midterm1
         '
         Me.midterm1.Font = New System.Drawing.Font("Palatino Linotype", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.midterm1.Location = New System.Drawing.Point(330, 25)
+        Me.midterm1.Location = New System.Drawing.Point(440, 31)
+        Me.midterm1.Margin = New System.Windows.Forms.Padding(4)
         Me.midterm1.Name = "midterm1"
-        Me.midterm1.Size = New System.Drawing.Size(248, 40)
+        Me.midterm1.Size = New System.Drawing.Size(329, 51)
         Me.midterm1.TabIndex = 11
         '
         'midterm2
         '
         Me.midterm2.Font = New System.Drawing.Font("Palatino Linotype", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.midterm2.Location = New System.Drawing.Point(330, 105)
+        Me.midterm2.Location = New System.Drawing.Point(440, 131)
+        Me.midterm2.Margin = New System.Windows.Forms.Padding(4)
         Me.midterm2.Name = "midterm2"
-        Me.midterm2.Size = New System.Drawing.Size(248, 40)
+        Me.midterm2.Size = New System.Drawing.Size(329, 51)
         Me.midterm2.TabIndex = 12
         '
         'finalExam
         '
         Me.finalExam.Font = New System.Drawing.Font("Palatino Linotype", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.finalExam.Location = New System.Drawing.Point(330, 183)
+        Me.finalExam.Location = New System.Drawing.Point(440, 229)
+        Me.finalExam.Margin = New System.Windows.Forms.Padding(4)
         Me.finalExam.Name = "finalExam"
-        Me.finalExam.Size = New System.Drawing.Size(248, 40)
+        Me.finalExam.Size = New System.Drawing.Size(329, 51)
         Me.finalExam.TabIndex = 13
         '
         'classGrade
         '
         Me.classGrade.Font = New System.Drawing.Font("Palatino Linotype", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.classGrade.Location = New System.Drawing.Point(330, 281)
+        Me.classGrade.Location = New System.Drawing.Point(440, 351)
+        Me.classGrade.Margin = New System.Windows.Forms.Padding(4)
         Me.classGrade.Name = "classGrade"
-        Me.classGrade.Size = New System.Drawing.Size(248, 40)
+        Me.classGrade.Size = New System.Drawing.Size(329, 51)
         Me.classGrade.TabIndex = 14
+        '
+        'CRNBox
+        '
+        Me.CRNBox.Font = New System.Drawing.Font("Palatino Linotype", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.CRNBox.Location = New System.Drawing.Point(440, 480)
+        Me.CRNBox.Margin = New System.Windows.Forms.Padding(4)
+        Me.CRNBox.Name = "CRNBox"
+        Me.CRNBox.Size = New System.Drawing.Size(329, 51)
+        Me.CRNBox.TabIndex = 16
+        '
+        'Label5
+        '
+        Me.Label5.BackColor = System.Drawing.Color.Crimson
+        Me.Label5.Font = New System.Drawing.Font("Palatino Linotype", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label5.ForeColor = System.Drawing.Color.White
+        Me.Label5.Location = New System.Drawing.Point(16, 471)
+        Me.Label5.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
+        Me.Label5.Name = "Label5"
+        Me.Label5.Size = New System.Drawing.Size(319, 65)
+        Me.Label5.TabIndex = 15
+        Me.Label5.Text = "Course CRN"
+        Me.Label5.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
         'updateForm
         '
-        Me.AutoScaleDimensions = New System.Drawing.SizeF(9.0!, 20.0!)
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(12.0!, 25.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.White
-        Me.ClientSize = New System.Drawing.Size(641, 455)
+        Me.ClientSize = New System.Drawing.Size(877, 763)
+        Me.Controls.Add(Me.CRNBox)
+        Me.Controls.Add(Me.Label5)
         Me.Controls.Add(Me.classGrade)
         Me.Controls.Add(Me.finalExam)
         Me.Controls.Add(Me.midterm2)
@@ -162,6 +199,7 @@ Partial Class updateForm
         Me.Controls.Add(Me.Label3)
         Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.Label2)
+        Me.Margin = New System.Windows.Forms.Padding(4)
         Me.Name = "updateForm"
         Me.Text = "Update"
         Me.ResumeLayout(False)
@@ -180,4 +218,6 @@ Partial Class updateForm
     Friend WithEvents midterm2 As TextBox
     Friend WithEvents finalExam As TextBox
     Friend WithEvents classGrade As TextBox
+    Friend WithEvents CRNBox As TextBox
+    Friend WithEvents Label5 As Label
 End Class

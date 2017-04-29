@@ -27,3 +27,4 @@ C:\Users\Brenda Lewis\Desktop\GUI\GUI\obj\Debug\GUI.exe
 C:\Users\Brenda Lewis\Desktop\GUI\GUI\obj\Debug\GUI.xml
 C:\Users\Brenda Lewis\Desktop\GUI\GUI\obj\Debug\GUI.pdb
 C:\Users\Brenda Lewis\Desktop\GUI\GUI\obj\Debug\GUI.NewStudent.resources
+C:\Users\Brenda Lewis\Desktop\GUI\GUI\obj\Debug\GUI.NewRecord.resources
